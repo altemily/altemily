@@ -37,8 +37,6 @@
 
 
 
-  <a href="https://app.rocketseat.com.br/me/altemilyc"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=altemilyc&type=card" width="280" alt="Ariane Carvalho's Rocket ID"/></a></div>
-
 ###
 
 
