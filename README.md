@@ -34,7 +34,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+
+
+
+  <a href="https://app.rocketseat.com.br/me/altemilyc"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=altemilyc&type=card" width="280" alt="Ariane Carvalho's Rocket ID"/></a></div>
 
 ###
 
