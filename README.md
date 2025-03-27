@@ -1,6 +1,3 @@
-
-<h4 align="left">👋 Hi there! I’m a Systems Information student and a Technical in Systems Development.</h4>
-
 <h1 align="left">Hey, i'm Ariane!</h1>
 
 ###
@@ -37,4 +34,4 @@
 
 ###
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=altemily.altemily)
