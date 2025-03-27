@@ -1,10 +1,3 @@
-<h1 align="left">Hello!!</h1>
-
-###
-
-<p align="left">My name is Ariane.</p>
-
-###
 
 <h4 align="left">👋 Hi there! I’m a Systems Information student and a Technical in Systems Development.</h4>
 
