@@ -28,6 +28,8 @@ I like working close to architecture and data flow — designing APIs, modeling 
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React / React Native" />
@@ -47,6 +49,17 @@ I like working close to architecture and data flow — designing APIs, modeling 
 
 ### Certifications
 - GitHub Foundations
+
+---
+
+### Most Used Languages
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=altemily&layout=compact&langs_count=6"
+    alt="Most used languages"
+  />
+</p>
 
 ---
 
