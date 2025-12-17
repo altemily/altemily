@@ -1,7 +1,7 @@
 <h1 align="left">Ariane Carvalho</h1>
 
 <p align="left">
-Software Engineer · Backend · Mobile · Product-Oriented Development
+Software Engineer · Backend · Mobile
 </p>
 
 ---
@@ -23,21 +23,23 @@ I like working close to architecture and data flow — designing APIs, modeling 
 
 ### Tech Stack
 
-**Backend**
-- Node.js · Express
-- Java
-- REST APIs
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React / React Native" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB" />
+</div>
 
-**Mobile & Frontend**
-- React Native
-- React
-- HTML · CSS
+---
 
-**Databases**
-- PostgreSQL
-- MongoDB
-
-**Tools & Cloud**
+### Tools & Cloud
 - Git · GitHub
 - AWS · Cloudflare
 
@@ -50,7 +52,7 @@ I like working close to architecture and data flow — designing APIs, modeling 
 
 ### Let’s connect
 - GitHub: https://github.com/altemily  
-- LinkedIn: www.linkedin.com/in/arianebcarvalho  
+- LinkedIn: https://www.linkedin.com/in/arianebcarvalho  
 - Email: altemilyc@gmail.com
 
 ---
