@@ -1,37 +1,58 @@
-<h1 align="left">Hey, i'm Ariane!</h1>
+<h1 align="left">Ariane Carvalho</h1>
 
-###
+<p align="left">
+Software Engineer · Backend · Mobile · Product-Oriented Development
+</p>
 
-<p align="left"># 👋 Hi there! I'm a Systems Information student and a Technical in Systems Development.<br><br># Backend-focused Developer.<br><br>💻 I'm currently diving into **Java**, **JavaScript**, **Node.js**, and **React**, with a focus on backend development, APIs, and building innovative applications.<br><br>🚀 Always eager to learn and create new things in the world of programming, whether it's developing apps, working on cloud-based solutions, or creating tools that optimize everyday tasks.<br><br><br>## 🎓 Certifications:<br>- **GitHub Foundation Certification**<br><br><br>## 🔧 Technologies I'm working with:<br>- **JavaScript (React, Node.js, Express.js)**<br>- **APIs and Integrations** (AWS, Cloudflare)<br>- **Version Control (Git and GitHub)**<br>- **Frontend Development** (React, HTML, CSS)<br>- **Backend Development** (Node.js, API Development)<br>- **Database Management** (PostgreSQL, MongoDB)<br><br>Feel free to check out my projects and don't hesitate to connect! 🚀</p>
+---
 
-###
+I’m a software engineer focused on backend development and mobile solutions, building systems that are scalable, well-structured and driven by real product needs.
 
-<h2 align="left">I code with</h2>
+I like working close to architecture and data flow — designing APIs, modeling databases and connecting backend systems to web and mobile interfaces with clarity and purpose.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
+### Current Focus
+- Backend development with **Node.js** and **Java**
+- API design and integrations
+- Relational databases and data modeling
+- Mobile application development with **React Native**
+- Building scalable web and mobile-oriented systems
 
+---
 
-###
+### Tech Stack
 
+**Backend**
+- Node.js · Express
+- Java
+- REST APIs
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=altemily&show_icons=true&locale=en&layout=compact" alt="altemily" /></p>
+**Mobile & Frontend**
+- React Native
+- React
+- HTML · CSS
 
-###
+**Databases**
+- PostgreSQL
+- MongoDB
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=altemily.altemily)
+**Tools & Cloud**
+- Git · GitHub
+- AWS · Cloudflare
+
+---
+
+### Certifications
+- GitHub Foundations
+
+---
+
+### Let’s connect
+- GitHub: https://github.com/altemily  
+- LinkedIn: www.linkedin.com/in/arianebcarvalho  
+- Email: altemilyc@gmail.com
+
+---
+
+Always learning. Always building.
