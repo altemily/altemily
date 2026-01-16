@@ -13,26 +13,26 @@ I enjoy designing robust architectures and efficient data flows — crafting hig
 ---
 
 ### Current Focus
-- Backend development with **Node.js** and **Java**
-- API design and integrations
-- Relational databases and data modeling
-- Mobile application development with **React Native**
-- Building scalable web and mobile-oriented systems
+- **Backend Architecture:** Developing scalable systems with **Node.js**, **TypeScript**, and **Java**.
+- **Mobile Ecosystem:** Crafting high-performance apps using **React Native** and **Kotlin**.
+- **API Design:** Building resilient RESTful services and third-party integrations.
+- **System Integration:** Connecting complex backend infrastructures with seamless mobile experiences.
+- **Performance:** Optimizing web and mobile-oriented systems for real-world product needs.
 
 ---
 
 ### Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React / React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React Native" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="36" alt="Kotlin" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" />
   <img width="10" />
