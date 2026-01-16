@@ -54,12 +54,7 @@ I like working close to architecture and data flow — designing APIs, modeling 
 
 ### Most Used Languages
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=altemily&layout=compact&langs_count=6"
-    alt="Most used languages"
-  />
-</p>
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=altemily&layout=compact&theme=tokyonight)
 
 ---
 
