@@ -8,7 +8,7 @@ Software Engineer · Backend · Mobile
 
 I’m a software engineer focused on backend development and mobile solutions, building systems that are scalable, well-structured and driven by real product needs.
 
-I like working close to architecture and data flow — designing APIs, modeling databases and connecting backend systems to web and mobile interfaces with clarity and purpose.
+I enjoy designing robust architectures and efficient data flows — crafting high-performance APIs and ensuring a seamless connection between backend logic and modern mobile and web interfaces with clarity and purpose.
 
 ---
 
