@@ -64,7 +64,7 @@ I enjoy designing robust architectures and efficient data flows — crafting hig
 
 ### 🤝 Let’s connect
 - **LinkedIn:** [arianebcarvalho](https://www.linkedin.com/in/arianebcarvalho)  
-- **Email:** ariane-emily@hotmail.com  
+- **Email:** altemilyc@gmail.com  
 
 ---
 
