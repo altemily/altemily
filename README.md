@@ -1,23 +1,23 @@
 <h1 align="left">Ariane Carvalho</h1>
 
 <p align="left">
-Software Engineer · Backend · Mobile
+[cite_start] Full Stack Web & Mobile [cite: 42]
 </p>
 
 ---
 
-I’m a software engineer focused on backend development and mobile solutions, building systems that are scalable, well-structured and driven by real product needs.
+[cite_start]I’m a software engineer focused on building systems that are scalable, well-structured, and driven by real product needs[cite: 47, 49]. [cite_start]Currently, I contribute to the Senac CodeLab ecosystem, developing internal web and mobile solutions[cite: 51, 53, 54].
 
-I enjoy designing robust architectures and efficient data flows — crafting high-performance APIs and ensuring a seamless connection between backend logic and modern mobile and web interfaces with clarity and purpose.
+[cite_start]I enjoy designing robust architectures and efficient data flows — crafting high-performance APIs and ensuring a seamless connection between backend logic and modern mobile and web interfaces with clarity and purpose[cite: 47, 55].
 
 ---
 
 ### Current Focus
-- **Backend Architecture:** Developing scalable systems with **Node.js**, **TypeScript**, and **Java**.
-- **Mobile Ecosystem:** Crafting high-performance apps using **React Native** and **Kotlin**.
-- **API Design:** Building resilient RESTful services and third-party integrations.
-- **System Integration:** Connecting complex backend infrastructures with seamless mobile experiences.
-- **Performance:** Optimizing web and mobile-oriented systems for real-world product needs.
+- [cite_start]**Academic:** 7th semester of Information Systems at Estácio.
+- [cite_start]**Backend Architecture:** Developing scalable systems with **Node.js** and **NestJS**.
+- [cite_start]**Mobile Ecosystem:** Crafting high-performance apps using **Kotlin (Android)** and **React Native**.
+- [cite_start]**UI/UX to Code:** Bridging the gap between **Figma** designs and functional, accessible interfaces[cite: 54, 55, 75].
+- [cite_start]**Agile Delivery:** Collaborating in fast-paced environments using **Scrum** and **GitHub** best practices[cite: 55, 69, 79].
 
 ---
 
@@ -26,29 +26,32 @@ I enjoy designing robust architectures and efficient data flows — crafting hig
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="36" alt="NestJS" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React Native" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="36" alt="Kotlin" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React Native" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="SQL" />
 </div>
 
 ---
 
-### Tools & Cloud
-- Git · GitHub
-- AWS · Cloudflare
+### Tools & Methods
+- [cite_start]**Design:** Figma [cite: 69, 75]
+- [cite_start]**Version Control:** Git & GitHub [cite: 69, 78]
+- [cite_start]**Agile:** Scrum & Kanban [cite: 69, 79]
+- [cite_start]**Cloud/Infra:** AWS & Security Fundamentals [cite: 76, 84]
 
 ---
 
 ### Certifications
-- GitHub Foundations
+- [cite_start]GitHub Foundations [cite: 78]
+- [cite_start]Scrum Fundamentals [cite: 79]
 
 ---
 
@@ -59,9 +62,8 @@ I enjoy designing robust architectures and efficient data flows — crafting hig
 ---
 
 ### Let’s connect
-- GitHub: https://github.com/altemily  
-- LinkedIn: https://www.linkedin.com/in/arianebcarvalho  
-- Email: altemilyc@gmail.com
+- [cite_start]**LinkedIn:** [arianebcarvalho](https://www.linkedin.com/in/arianebcarvalho) [cite: 45]
+- [cite_start]**Email:** [ariane-emily@hotmail.com](mailto:ariane-emily@hotmail.com) [cite: 44]
 
 ---
 
