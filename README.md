@@ -1,23 +1,23 @@
 <h1 align="left">Ariane Carvalho</h1>
 
 <p align="left">
-Full Stack Web & Mobile Developer
+Software Developer | Backend, Web & Mobile
 </p>
 
 ---
 
-I’m a full stack developer focused on building scalable, well-structured systems driven by real product needs.  
-Currently, I contribute to the **Senac CodeLab** ecosystem, developing internal web and mobile solutions.
+I’m a software developer focused on building well-structured systems driven by real product needs.  
+Currently, I contribute to the **Senac CodeLab** ecosystem, working on the development and maintenance of internal web and mobile applications.
 
-I enjoy designing robust architectures and efficient data flows — crafting high-performance APIs and ensuring a seamless connection between backend logic and modern mobile and web interfaces, always with clarity and purpose.
+I enjoy working on backend development, APIs, and database integration — ensuring a solid connection between backend logic and modern web and mobile interfaces, always with clarity and purpose.
 
 ---
 
 ### 🚀 Current Focus
-- **Academic:** 7th semester of Information Systems at Estácio  
-- **Backend Architecture:** Scalable systems with **Node.js** and **NestJS**  
-- **Mobile Ecosystem:** High-performance apps using **Kotlin (Android)** and **React Native**  
-- **UI/UX to Code:** Translating **Figma** designs into accessible, functional interfaces  
+- **Academic:** 6th semester of Information Systems at Estácio  
+- **Backend Development:** APIs, backend services, and database integration using **Java**, **Node.js**, and **NestJS**  
+- **Mobile Ecosystem:** Native Android development with **Kotlin** and cross-platform apps using **React Native**  
+- **UI/UX to Code:** Translating **Figma** designs into accessible and functional interfaces  
 - **Agile Delivery:** Working with **Scrum**, clean Git workflows, and collaborative teams  
 
 ---
@@ -25,6 +25,10 @@ I enjoy designing robust architectures and efficient data flows — crafting hig
 ### 🧠 Tech Stack
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="36" alt="NestJS" />
@@ -35,9 +39,7 @@ I enjoy designing robust architectures and efficient data flows — crafting hig
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="36" alt="Kotlin" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React Native" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React / React Native" />
 </div>
 
 ---
@@ -46,7 +48,6 @@ I enjoy designing robust architectures and efficient data flows — crafting hig
 - **Design:** Figma  
 - **Version Control:** Git & GitHub  
 - **Agile:** Scrum & Kanban  
-- **Cloud & Infra:** AWS & Security Fundamentals  
 
 ---
 
@@ -69,3 +70,4 @@ I enjoy designing robust architectures and efficient data flows — crafting hig
 ---
 
 Always learning. Always building.
+
