@@ -1,73 +1,76 @@
 <h1 align="left">Ariane Carvalho</h1>
 
 <p align="left">
-Software Developer | Backend, Web & Mobile
+  Dev building real products — not just writing code that runs.
 </p>
 
 ---
 
-I’m a software developer focused on building well-structured systems driven by real product needs.  
-Currently, I contribute to the **Senac CodeLab** ecosystem, working on the development and maintenance of internal web and mobile applications.
+Trabalho com desenvolvimento full stack, mobile e produto. Mas o que me diferencia não é o stack — é que **eu construo coisas que existem fora do meu repositório**.
 
-I enjoy working on backend development, APIs, and database integration — ensuring a solid connection between backend logic and modern web and mobile interfaces, always with clarity and purpose.
+Sou a pessoa por trás do ecossistema **[Alt.](https://github.com/Alt-Hub-Labs)** e **[Tangerina Labs](https://github.com/Tangerina-Code-Labs)**: um conjunto de apps próprios que nascem de problemas reais, são desenvolvidos em público e evoluem com mentalidade de produto desde o primeiro dia.
 
----
-
-### 🚀 Current Focus
-- **Academic:** 6th semester of Information Systems at Estácio  
-- **Backend Development:** APIs, backend services, and database integration using **Java**, **Node.js**, and **NestJS**  
-- **Mobile Ecosystem:** Native Android development with **Kotlin** and cross-platform apps using **React Native**  
-- **UI/UX to Code:** Translating **Figma** designs into accessible and functional interfaces  
-- **Agile Delivery:** Working with **Scrum**, clean Git workflows, and collaborative teams  
+No **Senac Labs / EduTech**, atuando no desenvolvimento e manutenção de aplicações web e mobile internas, com foco em qualidade, educação inovadora e soluções conectadas ao ecossistema Microsoft.
 
 ---
 
-### 🧠 Tech Stack
+### O que estou construindo
+
+Produtos que eu idealizei, desenhei e estou construindo:
+
+| App | Proposta |
+|-----|---------|
+| **StashHub** | Gerenciador de coleções físicas |
+| **Pit** | Gestão veicular simples e inteligente |
+| **Letura** | Tracker de leitura pessoal |
+| **fi.no** | Finanças pessoais sem enrolação |
+
+> Todos sob a marca **Alt.** — construídos com produto em mente desde o dia zero.
+
+---
+
+### Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="36" alt="NestJS" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="36" alt="Kotlin" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React / React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="32" alt="Kotlin" title="Kotlin" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" title="Java" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" title="TypeScript" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" title="JavaScript" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React / React Native" title="React / React Native" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js" title="Node.js" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="32" alt="NestJS" title="NestJS" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="PostgreSQL" title="PostgreSQL" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="32" alt="Prisma" title="Prisma" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="32" alt="Android Studio" title="Android Studio" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="32" alt="Expo" title="Expo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="Figma" title="Figma" />
 </div>
 
 ---
 
-### 🛠 Tools & Methods
-- **Design:** Figma  
-- **Version Control:** Git & GitHub  
-- **Agile:** Scrum & Kanban  
+### Stats
+
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=altemily&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-### 📜 Certifications
-- GitHub Foundations  
-- Scrum Fundamentals  
+### Onde me encontrar
+
+- **Instagram:** [@builtbyariane](https://instagram.com/builtbyariane) — bastidores dos builds
+- **LinkedIn:** [arianebcarvalho](https://www.linkedin.com/in/arianebcarvalho)
+- **Email:** altemilyc@gmail.com
 
 ---
 
-### 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=altemily&layout=compact&theme=tokyonight)
-
----
-
-### 🤝 Let’s connect
-- **LinkedIn:** [arianebcarvalho](https://www.linkedin.com/in/arianebcarvalho)  
-- **Email:** altemilyc@gmail.com  
-
----
-
-Always learning. Always building.
-
+<sub>Dev construindo coisas no mundo real. Movida a café e energético. ⚡</sub>
