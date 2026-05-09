@@ -22,7 +22,7 @@ Produtos que eu idealizei, desenhei e estou construindo:
 |-----|---------|
 | **StashHub** | Gerenciador de coleções físicas |
 | **Pit** | Gestão veicular simples e inteligente |
-| **Letura** | Tracker de leitura pessoal |
+| **Lettura** | Tracker de leitura pessoal |
 | **fi.no** | Finanças pessoais sem enrolação |
 
 > Todos sob a marca **Alt.** — construídos com produto em mente desde o dia zero.
