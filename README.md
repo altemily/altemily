@@ -8,7 +8,7 @@
 
 Trabalho com desenvolvimento full stack, mobile e produto. Mas o que me diferencia não é o stack — é que **eu construo coisas que existem fora do meu repositório**.
 
-Sou a pessoa por trás do ecossistema **[Alt.](https://github.com/Alt-Hub-Labs)** e **[Tangerina Labs](https://github.com/Tangerina-Code-Labs)**: um conjunto de apps próprios que nascem de problemas reais, são desenvolvidos em público e evoluem com mentalidade de produto desde o primeiro dia.
+Sou a pessoa por trás do ecossistema **[Alt.](https://github.com/Alt-Hub-Labs)**: um conjunto de apps próprios que nascem de problemas reais, são desenvolvidos em público e evoluem com mentalidade de produto desde o primeiro dia.
 
 No **Senac Labs / EduTech**, atuando no desenvolvimento e manutenção de aplicações web e mobile internas, com foco em qualidade, educação inovadora e soluções conectadas ao ecossistema Microsoft.
 
@@ -20,10 +20,10 @@ Produtos que eu idealizei, desenhei e estou construindo:
 
 | App | Proposta |
 |-----|---------|
-| **StashHub** | Gerenciador de coleções físicas |
+| **Tenho?** | Gerenciador de coleções físicas |
 | **Pit** | Gestão veicular simples e inteligente |
 | **Lettura** | Tracker de leitura pessoal |
-| **fi.no** | Finanças pessoais sem enrolação |
+| **Rods.** | Finanças pessoais sem enrolação |
 
 > Todos sob a marca **Alt.** — construídos com produto em mente desde o dia zero.
 
@@ -73,4 +73,4 @@ Produtos que eu idealizei, desenhei e estou construindo:
 
 ---
 
-<sub>Dev construindo coisas no mundo real. Movida a café e energético. ⚡</sub>
+<sub>Dev construindo coisas no mundo real. ⚡</sub>
