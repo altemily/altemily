@@ -2,7 +2,7 @@
 <h1 align="left">Ariane Carvalho</h1>
 
 <p align="left">
-  Full Stack & Mobile Developer · Founder of Alt.
+  Full Stack & Mobile Developer
 </p>
 
 <p align="left">
@@ -10,8 +10,6 @@
 </p>
 
 ---
-
-### Sobre mim
 
 Sou desenvolvedora **Full Stack & Mobile**, apaixonada por transformar problemas reais em produtos digitais.
 
@@ -90,7 +88,6 @@ Cada produto nasce de uma necessidade real e evolui com foco em experiência, ar
 
 - **LinkedIn:** [arianebcarvalho](https://www.linkedin.com/in/arianebcarvalho)
 - **Instagram:** [@builtbyariane](https://instagram.com/builtbyariane)
-- **Alt.:** [GitHub da organização](https://github.com/Alt-Software-Lab)
 - **Email:** altemilyc@gmail.com
 
 ---
